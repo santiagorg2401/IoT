@@ -5,13 +5,13 @@
 
 // Global variables.
 BH1750 lightMeter;
-int node_ID = 2;
+int MySolarGrid_ID = 01;
 
 void setup() {
   Serial.begin(9600);
   Wire.begin();
   lightMeter.begin();
-  setTime(11,23,0,19,02,2022);
+  setTime(12,35,0,19,02,2022);
 }
 
 void loop() {
@@ -27,7 +27,7 @@ void loop() {
   String Time = getTime();
 
   // Code json format data.
-  String jsonData = "{\"Node ID\" : " + String(node_ID) + ", \"Battery voltaje\" : " + String(volt) + ", \"Light level\" : " + String(lux) + ", \"Date\" : " + String(date) + ", \"Time\" : " + String(Time) + "}";
+  String jsonData = "{\"MySolarGrid ID\" : " + String(MySolarGrid_ID) + ", \"Battery voltaje\" : " + String(volt) + ", \"Light level\" : " + String(lux) + ", \"Date\" : " + String(date) + ", \"Time\" : " + String(Time) + "}";
 
   // Send json.
   Serial.println(jsonData);
