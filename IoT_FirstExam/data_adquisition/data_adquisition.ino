@@ -16,11 +16,11 @@ void setup() {
 
 void loop() {
   // Adquire sensor measurements.
-  int sensor = analogRead(A0);
+  float sensor = analogRead(A0);
   float lux = lightMeter.readLightLevel();
 
   // Scale voltaje readings.
-  float volt = (12 * sensor)/(1024);
+  float volt = (12 * sensor)/(1023);
 
   // Get date and time.
   String date = getDate();
