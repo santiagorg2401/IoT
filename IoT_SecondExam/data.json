@@ -1,0 +1,4540 @@
+{
+  "data": [
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 1
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 2
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 3
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 260,
+      "id": 4
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 5
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 6
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 253.33,
+      "id": 7
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 8
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 263.33,
+      "id": 9
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 265.83,
+      "id": 10
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 264.17,
+      "id": 11
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 260.83,
+      "id": 12
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 263.33,
+      "id": 13
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 260.83,
+      "id": 14
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 262.5,
+      "id": 15
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 262.5,
+      "id": 16
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 263.33,
+      "id": 17
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 257.5,
+      "id": 18
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 261.67,
+      "id": 19
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 257.5,
+      "id": 20
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 266.67,
+      "id": 21
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250.83,
+      "id": 22
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 23
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 272.5,
+      "id": 24
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 280,
+      "id": 25
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 26
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 27
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 278.33,
+      "id": 28
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 280,
+      "id": 29
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 30
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 278.33,
+      "id": 31
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 279.17,
+      "id": 32
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 33
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 278.33,
+      "id": 34
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 35
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 276.67,
+      "id": 36
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 37
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 278.33,
+      "id": 38
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 39
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 40
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 41
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 278.33,
+      "id": 42
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 43
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 279.17,
+      "id": 44
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 45
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 46
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 47
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 278.33,
+      "id": 48
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 49
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 50
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 51
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 52
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 53
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 54
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 55
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 56
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 276.67,
+      "id": 57
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 58
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 59
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 60
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 61
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 62
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275.83,
+      "id": 63
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 64
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275.83,
+      "id": 65
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 66
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 67
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 68
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275.83,
+      "id": 69
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275.83,
+      "id": 70
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 71
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 72
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275,
+      "id": 73
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275,
+      "id": 74
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 276.67,
+      "id": 75
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 276.67,
+      "id": 76
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 77
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 276.67,
+      "id": 78
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 277.5,
+      "id": 79
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 80
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 277.5,
+      "id": 81
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 82
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275,
+      "id": 83
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 84
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275.83,
+      "id": 85
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 86
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275.83,
+      "id": 87
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275,
+      "id": 88
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 276.67,
+      "id": 89
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 276.67,
+      "id": 90
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 91
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275,
+      "id": 92
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 93
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 276.67,
+      "id": 94
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275.83,
+      "id": 95
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275,
+      "id": 96
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275,
+      "id": 97
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 274.17,
+      "id": 98
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 275,
+      "id": 99
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 266.67,
+      "id": 100
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 101
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 247.5,
+      "id": 102
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 103
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 104
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 105
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 106
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 107
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 108
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 109
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 110
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 111
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 112
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 113
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 259.17,
+      "id": 114
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 257.5,
+      "id": 115
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 116
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 257.5,
+      "id": 117
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 258.33,
+      "id": 118
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 258.33,
+      "id": 119
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 120
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 121
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 122
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 123
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 258.33,
+      "id": 124
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 257.5,
+      "id": 125
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 258.33,
+      "id": 126
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 259.17,
+      "id": 127
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 128
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 129
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 130
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 131
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 132
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 133
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 259.17,
+      "id": 134
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 135
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 259.17,
+      "id": 136
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 137
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 258.33,
+      "id": 138
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 263.33,
+      "id": 139
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 260.83,
+      "id": 140
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 263.33,
+      "id": 141
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 259.17,
+      "id": 142
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 261.67,
+      "id": 143
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 144
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 266.67,
+      "id": 145
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 265.83,
+      "id": 146
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 266.67,
+      "id": 147
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 266.67,
+      "id": 148
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 149
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 150
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 151
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 152
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 258.33,
+      "id": 153
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 253.33,
+      "id": 154
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 251.67,
+      "id": 155
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 251.67,
+      "id": 156
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 157
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 158
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 262.5,
+      "id": 159
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 160
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 261.67,
+      "id": 161
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 260.83,
+      "id": 162
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 260,
+      "id": 163
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 257.5,
+      "id": 164
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 257.5,
+      "id": 165
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 166
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 258.33,
+      "id": 167
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 259.17,
+      "id": 168
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 169
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 170
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 171
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 172
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 173
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 259.17,
+      "id": 174
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 259.17,
+      "id": 175
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 176
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 177
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 178
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 179
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 257.5,
+      "id": 180
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 181
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 256.67,
+      "id": 182
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 183
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 184
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 185
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 186
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 187
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 188
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 189
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 190
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 191
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 192
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 193
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 194
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250.83,
+      "id": 195
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 196
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 197
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 198
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 199
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 200
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 201
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 202
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 203
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 204
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 253.33,
+      "id": 205
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 206
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 207
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 208
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 209
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 210
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 211
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 212
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 213
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 214
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 215
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 253.33,
+      "id": 216
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 217
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 254.17,
+      "id": 218
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 219
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 220
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 221
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 222
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 253.33,
+      "id": 223
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 224
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 225
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 226
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 227
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 228
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 229
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 230
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 231
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 232
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 233
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 234
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 235
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 236
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 237
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 238
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255.83,
+      "id": 239
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 240
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 241
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 242
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 243
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 244
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 245
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 246
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 251.67,
+      "id": 247
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 248
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 249
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 250
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 251
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 253.33,
+      "id": 252
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 255,
+      "id": 253
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250.83,
+      "id": 254
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 245.83,
+      "id": 255
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 256
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 257
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255.83,
+      "id": 258
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 255,
+      "id": 259
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 260
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 261
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 262
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 263
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 264
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 265
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 253.33,
+      "id": 266
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 260.83,
+      "id": 267
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 241.67,
+      "id": 268
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 264.17,
+      "id": 269
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 270
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270.83,
+      "id": 271
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 272
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 273
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 274
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 275
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 276
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 277
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270.83,
+      "id": 278
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 279
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 280
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 281
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 282
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270.83,
+      "id": 283
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 284
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 285
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 286
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270.83,
+      "id": 287
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 288
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 289
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 290
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 291
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 292
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 293
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 294
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 295
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 296
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 297
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 298
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 299
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 300
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 301
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 302
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 303
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 304
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 305
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 306
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 307
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 308
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 309
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 310
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 311
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270.83,
+      "id": 312
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 313
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270.83,
+      "id": 314
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270.83,
+      "id": 315
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270.83,
+      "id": 316
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 317
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 318
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 319
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 320
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 321
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 322
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 323
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 324
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 325
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 326
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 327
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 328
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 329
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 270,
+      "id": 330
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 331
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 267.5,
+      "id": 332
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 333
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 267.5,
+      "id": 334
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 267.5,
+      "id": 335
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 336
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 337
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 338
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 339
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 340
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 341
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 342
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 343
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 267.5,
+      "id": 344
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 267.5,
+      "id": 345
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 346
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 347
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 348
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 349
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 350
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 351
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 352
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 353
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 354
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 355
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 356
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 357
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 358
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 359
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270,
+      "id": 360
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 361
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 362
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 363
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 267.5,
+      "id": 364
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 365
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 266.67,
+      "id": 366
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 266.67,
+      "id": 367
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 368
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 369
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 267.5,
+      "id": 370
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 371
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 268.33,
+      "id": 372
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 269.17,
+      "id": 373
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 268.33,
+      "id": 374
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 269.17,
+      "id": 375
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 266.67,
+      "id": 376
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 377
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 243.33,
+      "id": 378
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 379
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 380
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 249.17,
+      "id": 381
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 382
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 383
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 248.33,
+      "id": 384
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 248.33,
+      "id": 385
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 248.33,
+      "id": 386
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 387
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 245.83,
+      "id": 388
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 246.67,
+      "id": 389
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 390
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 246.67,
+      "id": 391
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 392
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 246.67,
+      "id": 393
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 394
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 395
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 245.83,
+      "id": 396
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 246.67,
+      "id": 397
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 398
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 399
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 248.33,
+      "id": 400
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 401
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 402
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 403
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 404
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 249.17,
+      "id": 405
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 406
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 407
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 408
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 409
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 410
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 411
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 412
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 413
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 414
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 415
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 248.33,
+      "id": 416
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 246.67,
+      "id": 417
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 418
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 419
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 247.5,
+      "id": 420
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 247.5,
+      "id": 421
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 247.5,
+      "id": 422
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 247.5,
+      "id": 423
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 424
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 247.5,
+      "id": 425
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 426
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 246.67,
+      "id": 427
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 247.5,
+      "id": 428
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 429
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 430
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 431
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 251.67,
+      "id": 432
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 251.67,
+      "id": 433
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 434
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 435
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 436
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 251.67,
+      "id": 437
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250.83,
+      "id": 438
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 246.67,
+      "id": 439
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 247.5,
+      "id": 440
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 248.33,
+      "id": 441
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 442
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 443
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 249.17,
+      "id": 444
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 445
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 446
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 447
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 448
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 449
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 450
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 451
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250,
+      "id": 452
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 248.33,
+      "id": 453
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 249.17,
+      "id": 454
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250.83,
+      "id": 455
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 456
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 457
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250.83,
+      "id": 458
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 251.67,
+      "id": 459
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 460
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 250.83,
+      "id": 461
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 462
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 251.67,
+      "id": 463
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 252.5,
+      "id": 464
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 250,
+      "id": 465
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 253.33,
+      "id": 466
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 257.5,
+      "id": 467
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 254.17,
+      "id": 468
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 252.5,
+      "id": 469
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 256.67,
+      "id": 470
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 127.5,
+      "id": 471
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 271.67,
+      "id": 472
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 260,
+      "id": 473
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 260.83,
+      "id": 474
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 262.5,
+      "id": 475
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 270.83,
+      "id": 476
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 272.5,
+      "id": 477
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 275,
+      "id": 478
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 274.17,
+      "id": 479
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 274.17,
+      "id": 480
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 273.33,
+      "id": 481
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230.83,
+      "id": 482
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 233.33,
+      "id": 483
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 229.17,
+      "id": 484
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 233.33,
+      "id": 485
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230.83,
+      "id": 486
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 231.67,
+      "id": 487
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 231.67,
+      "id": 488
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 231.67,
+      "id": 489
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 231.67,
+      "id": 490
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230.83,
+      "id": 491
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 231.67,
+      "id": 492
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 231.67,
+      "id": 493
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 233.33,
+      "id": 494
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230,
+      "id": 495
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230,
+      "id": 496
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 224.17,
+      "id": 497
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230.83,
+      "id": 498
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230.83,
+      "id": 499
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 231.67,
+      "id": 500
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230,
+      "id": 501
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 235.83,
+      "id": 502
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 233.33,
+      "id": 503
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 233.33,
+      "id": 504
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 234.17,
+      "id": 505
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 233.33,
+      "id": 506
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 235,
+      "id": 507
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 232.5,
+      "id": 508
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 235,
+      "id": 509
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 235,
+      "id": 510
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230,
+      "id": 511
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 231.67,
+      "id": 512
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 225.83,
+      "id": 513
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 225,
+      "id": 514
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 226.67,
+      "id": 515
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 225.83,
+      "id": 516
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 223.33,
+      "id": 517
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 227.5,
+      "id": 518
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230,
+      "id": 519
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 235,
+      "id": 520
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230.83,
+      "id": 521
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230.83,
+      "id": 522
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230,
+      "id": 523
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230.83,
+      "id": 524
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 229.17,
+      "id": 525
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 229.17,
+      "id": 526
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230.83,
+      "id": 527
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230,
+      "id": 528
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 229.17,
+      "id": 529
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230,
+      "id": 530
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 235,
+      "id": 531
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 235,
+      "id": 532
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 235,
+      "id": 533
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 235,
+      "id": 534
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230.83,
+      "id": 535
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 225,
+      "id": 536
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 220,
+      "id": 537
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 233.33,
+      "id": 538
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230.83,
+      "id": 539
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 230.83,
+      "id": 540
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 236.67,
+      "id": 541
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 221.67,
+      "id": 542
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 221.67,
+      "id": 543
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 226.67,
+      "id": 544
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 223.33,
+      "id": 545
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 221.67,
+      "id": 546
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 219.17,
+      "id": 547
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 220.83,
+      "id": 548
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 220.83,
+      "id": 549
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 222.5,
+      "id": 550
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 219.17,
+      "id": 551
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 224.17,
+      "id": 552
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 223.33,
+      "id": 553
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 221.67,
+      "id": 554
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 228.33,
+      "id": 555
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 226.67,
+      "id": 556
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.12,
+      "Light level": 227.5,
+      "id": 557
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.05,
+      "Light level": 225,
+      "id": 558
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 230,
+      "id": 559
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 5.99,
+      "Light level": 227.5,
+      "id": 560
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 1.85,
+      "Light level": 226.67,
+      "id": 561
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.11,
+      "Light level": 225,
+      "id": 562
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.14,
+      "Light level": 225.83,
+      "id": 563
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.7,
+      "Light level": 230.83,
+      "id": 564
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 230,
+      "id": 565
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 214.17,
+      "id": 566
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.05,
+      "Light level": 157.5,
+      "id": 567
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 174.17,
+      "id": 568
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 184.17,
+      "id": 569
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 187.5,
+      "id": 570
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 183.33,
+      "id": 571
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 188.33,
+      "id": 572
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190,
+      "id": 573
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 185.83,
+      "id": 574
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 187.5,
+      "id": 575
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 189.17,
+      "id": 576
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 189.17,
+      "id": 577
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 183.33,
+      "id": 578
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 182.5,
+      "id": 579
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 185.83,
+      "id": 580
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 188.33,
+      "id": 581
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 188.33,
+      "id": 582
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 188.33,
+      "id": 583
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190.83,
+      "id": 584
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 189.17,
+      "id": 585
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 188.33,
+      "id": 586
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190.83,
+      "id": 587
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190,
+      "id": 588
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 186.67,
+      "id": 589
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 186.67,
+      "id": 590
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 174.17,
+      "id": 591
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 180,
+      "id": 592
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 176.67,
+      "id": 593
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 187.5,
+      "id": 594
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 183.33,
+      "id": 595
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 188.33,
+      "id": 596
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 188.33,
+      "id": 597
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 187.5,
+      "id": 598
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 187.5,
+      "id": 599
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 186.67,
+      "id": 600
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 182.5,
+      "id": 601
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 184.17,
+      "id": 602
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 186.67,
+      "id": 603
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 185.83,
+      "id": 604
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 186.67,
+      "id": 605
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 185.83,
+      "id": 606
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 185,
+      "id": 607
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 192.5,
+      "id": 608
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190.83,
+      "id": 609
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190,
+      "id": 610
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190.83,
+      "id": 611
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190.83,
+      "id": 612
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190.83,
+      "id": 613
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 191.67,
+      "id": 614
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 188.33,
+      "id": 615
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190,
+      "id": 616
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 187.5,
+      "id": 617
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 186.67,
+      "id": 618
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 183.33,
+      "id": 619
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190.83,
+      "id": 620
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 189.17,
+      "id": 621
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 188.33,
+      "id": 622
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 189.17,
+      "id": 623
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 185.83,
+      "id": 624
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 189.17,
+      "id": 625
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 190,
+      "id": 626
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 189.17,
+      "id": 627
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 185.83,
+      "id": 628
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 182.5,
+      "id": 629
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.01,
+      "Light level": 186.67,
+      "id": 630
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 187.5,
+      "id": 631
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 192.5,
+      "id": 632
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 194.17,
+      "id": 633
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.07,
+      "Light level": 204.17,
+      "id": 634
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 203.33,
+      "id": 635
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.04,
+      "Light level": 200,
+      "id": 636
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0.02,
+      "Light level": 198.33,
+      "id": 637
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 2.05,
+      "Light level": 183.33,
+      "id": 638
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 1.43,
+      "Light level": 191.67,
+      "id": 639
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 10.36,
+      "Light level": 184.17,
+      "id": 640
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 200.83,
+      "id": 641
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 200,
+      "id": 642
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 12,
+      "Light level": 199.17,
+      "id": 643
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 199.17,
+      "id": 644
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 12,
+      "Light level": 200.83,
+      "id": 645
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 203.33,
+      "id": 646
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.98,
+      "Light level": 220.83,
+      "id": 647
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 215,
+      "id": 648
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 216.67,
+      "id": 649
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 205.83,
+      "id": 650
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 202.5,
+      "id": 651
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 200.83,
+      "id": 652
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 134.17,
+      "id": 653
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 221.67,
+      "id": 654
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 12,
+      "Light level": 214.17,
+      "id": 655
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 210.83,
+      "id": 656
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 657
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 228.33,
+      "id": 658
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 228.33,
+      "id": 659
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 660
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 661
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 662
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 663
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 664
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 228.33,
+      "id": 665
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 666
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 667
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 668
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 669
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 670
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 671
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 672
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 673
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 674
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 675
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 12,
+      "Light level": 226.67,
+      "id": 676
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 677
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 12,
+      "Light level": 226.67,
+      "id": 678
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 679
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 680
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 681
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 229.17,
+      "id": 682
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 228.33,
+      "id": 683
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 684
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 685
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 12,
+      "Light level": 225.83,
+      "id": 686
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 687
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 688
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 12,
+      "Light level": 227.5,
+      "id": 689
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 690
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 691
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225,
+      "id": 692
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 693
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 694
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.98,
+      "Light level": 225,
+      "id": 695
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 220,
+      "id": 696
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225.83,
+      "id": 697
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 698
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 699
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 226.67,
+      "id": 700
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 227.5,
+      "id": 701
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 225,
+      "id": 702
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 210,
+      "id": 703
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 11.99,
+      "Light level": 214.17,
+      "id": 704
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 4.7,
+      "Light level": 215.83,
+      "id": 705
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 4.22,
+      "Light level": 220,
+      "id": 706
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 4.23,
+      "Light level": 220.83,
+      "id": 707
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 3.23,
+      "Light level": 220,
+      "id": 708
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 218.33,
+      "id": 709
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 219.17,
+      "id": 710
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 218.33,
+      "id": 711
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 237.5,
+      "id": 712
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 238.33,
+      "id": 713
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 239.17,
+      "id": 714
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 240,
+      "id": 715
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 562.5,
+      "id": 716
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 2128.33,
+      "id": 717
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 1916.67,
+      "id": 718
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 1937.5,
+      "id": 719
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 2316.67,
+      "id": 720
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 2785.83,
+      "id": 721
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 2909.17,
+      "id": 722
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 3149.17,
+      "id": 723
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 264.17,
+      "id": 724
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 725
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 726
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 727
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 728
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 729
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 730
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 731
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 0.83,
+      "id": 732
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 235.83,
+      "id": 733
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 230,
+      "id": 734
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 232.5,
+      "id": 735
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 238.33,
+      "id": 736
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 240,
+      "id": 737
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 240.83,
+      "id": 738
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 239.17,
+      "id": 739
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 237.5,
+      "id": 740
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 236.67,
+      "id": 741
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 235.83,
+      "id": 742
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 236.67,
+      "id": 743
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 237.5,
+      "id": 744
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 235.83,
+      "id": 745
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 235.83,
+      "id": 746
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 224.17,
+      "id": 747
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 232.5,
+      "id": 748
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 236.67,
+      "id": 749
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 229.17,
+      "id": 750
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 241.67,
+      "id": 751
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 242.5,
+      "id": 752
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 244.17,
+      "id": 753
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 244.17,
+      "id": 754
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 242.5,
+      "id": 755
+    },
+    {
+      "MySolarGrid ID": 1,
+      "Battery voltaje": 0,
+      "Light level": 242.5,
+      "id": 756
+    }
+  ]
+}
