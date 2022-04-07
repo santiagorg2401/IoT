@@ -24,7 +24,7 @@ void loop() {
 
   HttpClient cliente;
   cliente.setHeader("Content-Type: application/json");
-  String httpDestination = "http://192.168.18.19:3000/data";
+  String httpDestination = "http://192.168.249.19:3000/data";
   String httpBody = jsonData;
   cliente.post(httpDestination, httpBody);
   Serial.println("enviando:");
