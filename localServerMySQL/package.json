@@ -1,7 +1,6 @@
 {
   "name": "localservermysql",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
     "mqtt": "^4.3.7",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
