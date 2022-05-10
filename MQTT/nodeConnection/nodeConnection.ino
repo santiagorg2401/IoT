@@ -1,23 +1,26 @@
+#include <TimeLib.h>
+#include <BH1750.h>
 #include <SPI.h>
 #include <Bridge.h>
 #include <BridgeClient.h>
 #include <PubSubClient.h>
 
-#define mqttUser "77adbc40-a4a0-11ec-8da3-474359af83d7"
-#define mqttPass "c0cfe6ac5caf9a3407c77dcff10f20b732f5757b"
+#define mqttUser ""
+#define mqttPass ""
 #define mqttPort 1883
-char mqttBroker[] = "mqtt.mydevices.com";
-char mqttClientId[] = "c253f010-a4a6-11ec-8c44-371df593ba58";
-char inTopic0[] = "v1/77adbc40-a4a0-11ec-8da3-474359af83d7/things/c253f010-a4a6-11ec-8c44-371df593ba58/data/0";
-char inTopic1[] = "v1/77adbc40-a4a0-11ec-8da3-474359af83d7/things/c253f010-a4a6-11ec-8c44-371df593ba58/data/1";
-char dato0[]="value0=";
-char dato1[]="value1=";
+char mqttBroker[] = "192.168.163.19";
+char mqttClientId[] = "ArduinoYun01";
+char inTopic0[] = "topico1";
+char dato0[] = "{\"temperatura\" : ";
+
+BH1750 lightMeter;
+int MySolarGrid_ID = 01;
 
 void callback(char* topic, byte* payload, unsigned int length) {
   Serial.print("Message arrived [");
   Serial.print(topic);
   Serial.print("] ");
-  for (int i=0;i<length;i++) {
+  for (int i = 0; i < length; i++) {
     Serial.print((char)payload[i]);
   }
   Serial.println();
@@ -32,18 +35,15 @@ void reconnect() {
     if (client.connect(mqttClientId, mqttUser, mqttPass)) {
       Serial.println("connected");
       // Once connected, publish an announcement...
-      int sensor0 = analogRead(A0);
-      char datojson0[50];
-      sprintf(datojson0, "%s %i", dato0, sensor0);
-      Serial.println(datojson0);
-      client.publish(inTopic0,datojson0);
+      float sensor = analogRead(A0);
+      float volt = (12 * sensor) / (1023);
+      float lux = lightMeter.readLightLevel();
+      String date = "\"" + String(day()) + "/" + String(month()) + "/" + String(year()) + " " + String(hour()) + ":" + String(minute()) + "\"";
+      String jsonData = "{\"MySolarGridID\" : " + String(MySolarGrid_ID) + ", \"BatteryVoltaje\" : " + String(volt) + ", \"LightLevel\" : " + String(lux) + ", \"date\" : " + date + "}";
 
-      int sensor1 = analogRead(A1)*2;
-      char datojson1[50];
-      sprintf(datojson1, "%s %i", dato1, sensor1);
-      Serial.println(datojson1);
-      client.publish(inTopic1,datojson1);
-      
+      Serial.println(jsonData);
+      client.publish(inTopic0, jsonData.c_str());
+
       client.disconnect();
       delay(5000);
       // ... and resubscribe
@@ -59,12 +59,18 @@ void reconnect() {
 }
 void setup()
 {
-  Serial.begin(57600);
+  Serial.begin(9600);
   Bridge.begin();
   client.setServer( mqttBroker, mqttPort );
   client.setCallback( callback );
   Serial.println("Setup done");
   delay(1500);
+  
+  setTime(16,22,00,29,04,2022); 
+
+  Wire.begin();
+  lightMeter.begin();
+  Serial.println(F("BH1750 Test"));
 }
 void loop()
 {

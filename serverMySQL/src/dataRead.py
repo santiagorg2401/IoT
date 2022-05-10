@@ -6,11 +6,12 @@ import requests
 import json
 import datetime
 
-api_url = "http://localhost:3000"
+
+headers = {'Content-Type': 'application/json'}
 
 while(1):
     try:
-        device = serial.Serial("/dev/ttyACM0", 9600)
+        device = serial.Serial("/dev/ttyACM1", 9600)
         time.sleep(2.0)
 
         resp = device.readline()
@@ -26,10 +27,11 @@ while(1):
             "timedate": str(crrt_time),
             "powerState": "10"
         }
-
+        api_url = "http://localhost:3000/datos"
         jsonMsg = json.dumps(x)
-        response = requests.post(api_url, data=jsonMsg)
+        response = requests.post(api_url, data=jsonMsg, headers=headers)
         print(jsonMsg)
+        print(response.headers['content-type'])
         
     except KeyboardInterrupt:
         break

@@ -5,7 +5,7 @@ const mysql = require('mysql');
 const connection = mysql.createPool({
     connectionLimit: 500,
     host: 'localhost',
-    user: 'root',
+    user: 'calidata',
     password: 'password', //el password de ingreso a mysql
     database: 'CaliDatos',
     port: 3306
