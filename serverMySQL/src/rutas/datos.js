@@ -87,7 +87,7 @@ router.get('/datos/:robot_id', (req, res) => {
                     for (i = 0; i < resultado.length; i++) {
                         //se lee el resultado y se arma el json
                         json1 = {
-                            "robot_id": resultado[i].robot_id, "temperature": resultado[i].temperatura,
+                            "robot_id": resultado[i].robot_id, "temperature": resultado[i].temperature,
                             "weight": resultado[i].weight, "timedate": resultado[i].timedate, "powerState": resultado[i].powerState
                         };
                         console.log(json1); //se muestra el json en la consola
